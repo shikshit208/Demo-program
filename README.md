@@ -1,3 +1,5 @@
 # Demo-program
+
 This is my first Git Repository.
-Auhor-Shikshit 
+Auhor of Demo-program is -Shikshit 
+
